@@ -1,23 +1,38 @@
 
 <!-- Footer -->
-	<footer id="footer">
-		<div class="inner">
-			<ul class="icons">
-				{% if site.github_url %}
-				<li><a href="{{ site.github_url }}" class="icon alt fa-github" target="_blank"><span class="label">GitHub</span></a></li>
-				{% endif %}
-			</ul>
-			<ul class="copyright">
-				<li>&copy; {{ site.title }} {{ site.subtitle }}</li>
-				<li>Design: <a href="https://html5up.net" target="_blank">HTML5 UP</a></li>
-				<li>Jekyll integration: <a href="http://andrewbanchi.ch" target="_blank">Andrew Banchich</a></li>
-
-			</ul>
-		</div>
-	</footer>
-
-</div>
-
+<footer id="footer">
+    <div class="inner">
+        <ul class="icons">
+            {% if site.github_url %}
+                <li>
+                    <a href="{{ site.github_url }}" class="icon alt fa-github" target="_blank">
+                        <span class="label">GitHub</span>
+                    </a>
+                </li>
+            {% endif %}
+            {% if site.telegram_url %}
+                <li>
+                    <a href="{{ site.telegram_url }}" class="icon alt fa-telegram" target="_blank">
+                        <span class="label">GitHub</span>
+                    </a>
+                </li>
+            {% endif %}
+            {% if site.xda_url %}
+                <li>
+                    <a href="{{ site.xda_url }}" class="icon alt fa-forumbee" target="_blank">
+                        <span class="label">Xda-Developers</span>
+                    </a>
+                </li>
+            {% endif %}
+        </ul>
+        <ul class="copyright">
+            <li>&copy;{{ site.title }}</li>
+            <li>Original Design:
+                <a href="https://html5up.net" target="_blank">HTML5 UP</a>
+            </li>
+        </ul>
+    </div>
+</footer>
 <!-- Scripts -->
 	<script src="/assets/js/jquery.min.js"></script>
 	<script src="/assets/js/jquery.scrolly.min.js"></script>

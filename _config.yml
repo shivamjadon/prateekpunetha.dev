@@ -19,6 +19,8 @@ tiles-count: 6
 
 # social settings
 github_url: https://github.com/PrateekPunetha
+telegram_url: https://t.me/prateekpunetha
+xda_url: https://forum.xda-developers.com/member.php?u=9362058
 
 # build settings
 markdown: kramdown
