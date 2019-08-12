@@ -19,7 +19,6 @@ tiles-count: 6
 
 # social settings
 github_url: https://github.com/PrateekPunetha
-twitter_url: https://twitter.com/PrateekPunetha
 
 # build settings
 markdown: kramdown
