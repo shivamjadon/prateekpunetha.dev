@@ -8,7 +8,7 @@ show_tile: false
 <div id="main" class="alt">
     <div class="inner">
     <h3>About:</h3>
-    <p> Nitrogen OS is a Smooth and Lit Custom Aosp based Rom for the Xiaomi Redmi 5 Plus, Check Out its source code  <a href="https://github.com/nitrogen-project/" target="_blank">source code.</a> <br> check out nos device tree and XDA thread  for the Xiaomi Redmi 5 Plus on github. </p>
+    <p> Nitrogen OS is a Smooth and Lit Custom Aosp based Rom for the Xiaomi Redmi 5 Plus, Check Out its <a href="https://github.com/nitrogen-project/" target="_blank">source code.</a> <br> check out nos device tree and XDA thread  for the Xiaomi Redmi 5 Plus on github or from the below icons. </p>
     <ul class="icons">
         <li>
             <a href="https://github.com/PrateekPunetha/android_device_xiaomi_vince" class="icon alt fa-github" target="_blank">
