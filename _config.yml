@@ -6,7 +6,7 @@ description: An Android and Linux Enthusiast
 baseurl: "" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author: Prateek
-street_address: 1234 Somewhere Road
+street_address: 
 city: Pithoragarh
 state: Uttarakhand
 zip_code: 262501
