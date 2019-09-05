@@ -11,7 +11,6 @@ city: Pithoragarh
 state: Uttarakhand
 zip_code: 262501
 country: India
-phone: (716) 555-5555
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
@@ -27,3 +26,11 @@ markdown: kramdown
 
 sass:
   style: compressed
+
+include: ["_pages"]
+collections:
+  pages:
+    output: true
+    permalink: :path
+
+permalink: pretty
