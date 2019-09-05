@@ -6,36 +6,65 @@
 -->
 
 <html>
-  {% include head.html %}
-  <body>
-    {% include header.html %}
-    <!-- Main -->
-    <div id="main" class="alt">
-      <!-- One -->
-      <section id="one">
-        <div class="inner">
-          <header class="major">
-            {% if page.title != 404 %}
-            <h1>{{ page.title }}</h1>
-            {% endif %}
-          </header>
-          {% if page.image %}<span class="image main"
-            ><img src="{{ page.image }}" alt=""
-          /></span>
-          {% endif %}
-          <p>{{ content }}</p>
-          {% if page.project != true %}
-          <div class="actions">
-            {% if page.next.url and page.next.project != true %}
-            <a class="button" href="{{ page.next.url }}">&laquo;{{ page.next.title | truncatewords: 3 }}</a>
-            {% endif %}
-            {% if page.previous.url and page.previous.project != true %}
-            <a style="float: right;" class="button" href="{{ page.previous.url }}">{{ page.previous.title | truncatewords: 3 }}&raquo;</a>
-            <br />
-            <br />
-            {% endif %} 
-          </div>
-          {% endif %}
+    {% include head.html %}
+    <body>
+        {% include header.html %}
+        <!-- Main -->
+        <div
+            class="alt" id="main">
+            <!-- One -->
+            <section id="one">
+                <div class="inner">
+                    <div class="row 200%">
+                        <div class="6u 12u$(medium)">
+                            <header class="major">
+                                <h2>{{ page.title }}</h2>
+                            </header>
+                            {% include social-share.html %}
+                        </div>
+                        <div class="6u 12u$(medium)" style="text-align: right;padding-top: 40px;padding-right: 20px;">
+                            {% if page.github %}
+                                <ul class="actions github">
+                                    <li>
+                                        <a href="{{ page.github }}" target="_blank" class="button">Fork on Github</a>
+                                    </li>
+                                </ul>
+                            {%- else -%}
+                            <h3>{% include read-time.html content=page.content %}</h3>
+                            {% endif %}
+                        </div>
+                    </div>
+                    {% if page.image %}
+                        <span class="image main"><img src="{{ page.image }}" alt=""/></span>
+                    {% endif %}
+                    <p>{{ content }}</p>
+                    {% if page.project != true %}
+                        <div class="actions">
+                            {% if page.next.url and page.next.project != true %}
+                                <a class="button" href="{{ page.next.url }}">
+                                    &laquo;
+                                    {% if page.next.main-title %}
+                                        {{ page.next.main-title }}
+                                    {% else %}
+                                        {{page.next.title}}
+                                    {% endif %}
+                                </a>
+                            {% endif %}
+                            {% if page.previous.url and page.previous.project != true %}
+                                <a style="float: right;" class="button" href="{{ page.previous.url }}">
+                                    {% if page.previous.main-title %}
+                                        {{page.previous.main-title}}
+                                    {% else %}
+                                        {{page.previous.title}}
+                                    {% endif %}&raquo;
+                                </a>
+                            {% endif %}
+                            <br/>
+                            <br/>
+                        </div>
+                    {% endif %}
+                </div>
+            </section>
         </div>
       </section>
     </div>
