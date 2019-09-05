@@ -5,7 +5,7 @@ description: Oh Yeah! Oh Yeah!
 image: /assets/images/ocean.png
 ---
 
-Nowdays I am using Material Ocean theme like literally everywhere for every apps I am using it as theme and I have became a huge fan of material ocean theme
+Nowdays I am using Material Ocean theme like literally everywhere for every apps and I have became a huge fan of material ocean theme
 Here aere some pictures and info about it.
 
 ###### Homescreen:
@@ -21,11 +21,11 @@ So lets start with the materialized homescreen
     </div>
 </div>
  
-this is the homescreen and as you can see how much lit it is matching with the material ocean.
+This is the homescreen and as you can see how much pretty it looks with the theme.
 
 ###### Apps:
 
-Oh yeah material ocean looks classic 
+Oh yeah Material Ocean looks Classic 
 
 <div class="row 200%">
     <div class="6u 12u$(medium)">

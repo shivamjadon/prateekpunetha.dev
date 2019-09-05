@@ -8,4 +8,4 @@ author: null
 show_tile: false
 ---
 
-17 years old an Android and Linux Enthusiast currently maintaining NITROGEN OS for the Xiaomi Redmi 5 Plus. I am also a High School student into the Science field.
+17 years old, An Android and Linux Enthusiast also a class 12 student into the Science field, currently maintaining NITROGEN OS for the Xiaomi Redmi 5 Plus.
