@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Material Ocean
-description: Oh Yeah! Oh Yeah!
-image: /assets/images/ocean.png
+description: I have mastered the moves
+image: /assets/images/newocean.png
 ---
 
 Nowdays I am using Material Ocean theme like literally everywhere for every apps and I have became a huge fan of material ocean theme
-Here aere some pictures and info about it.
+Here are some pictures and info about it.
 
 ###### Homescreen:
 
