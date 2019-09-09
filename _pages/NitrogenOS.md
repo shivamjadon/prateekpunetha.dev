@@ -16,7 +16,7 @@ show_tile: false
             </a>
         </li>
         <li>
-            <a href="bit.ly/NitrogenVince" class="icon alt fa-forumbee" target="_blank">
+            <a href="https://bit.ly/NitrogenVince" class="icon alt fa-android" target="_blank">
             <span class="label">Xda-Developers</span>
             </a>
         </li>
