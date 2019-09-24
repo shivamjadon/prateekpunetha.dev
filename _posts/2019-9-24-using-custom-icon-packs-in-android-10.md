@@ -18,13 +18,14 @@ As you can see how much pretty it looks with these icons ( Alexis btw ) as compa
 ###### How to Use Pixel Launcher Mods
 
 
-So Using Pixel launcher mods is quite simple, First you need to download it  [From Here](https://labs.xda-developers.com/store/app/com.kieronquinn.app.pixellaunchermods/){:target="_blank"}. Now just Open it and select your launcher ( quickstep )
+So Using Pixel launcher mods is quite simple, First you need to download it  [From Here](https://labs.xda-developers.com/store/app/com.kieronquinn.app.pixellaunchermods){:target="_blank"}. Now just Open it and select your launcher ( quickstep )
 
 <div class="row 200%">
     <div class="6u 12u$(medium)">
     <img src="/assets/images/quick.png">
     </div>
 </div>
+
 
 Now after selecting the launcher You just need to click on apply icon pack and select your desired icon pack 
 
@@ -38,4 +39,4 @@ Now after selecting the launcher You just need to click on apply icon pack and s
     </div>
 </div>
 
-And we finally applied custom icon pack to the default quickstep launcher withoutany problems, but if we would have used any other launcher then we could not use the new gesture because as of now only quickstep supports it.
+And we finally applied custom icon pack to the default quickstep launcher without any problems, but if we would have used any other launcher then we could not use the new gesture because as of now only quickstep supports it.
