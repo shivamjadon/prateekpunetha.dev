@@ -73,7 +73,28 @@
   margin-top: 100px;
   padding-right: 20px;
 }
-@media only screen and (max-width: 850px) {
+
+.lunrsearchresult .title {
+  color: #ffffff;
+  font-weight: bold;
+}
+.lunrsearchresult .url {
+  color: silver;
+  padding-bottom: 20px;
+}
+.lunrsearchresult a {
+  display: block;
+  color: #777;
+}
+.lunrsearchresult a:hover,
+.lunrsearchresult a:focus {
+  text-decoration: none !important;
+}
+.lunrsearchresult a:hover .title {
+  text-decoration: none !important;
+  padding-bottom: 10px !important;
+}
+@media only screen and (max-width: 480px) {
   .read-time {
     margin-top: -60px;
   }
