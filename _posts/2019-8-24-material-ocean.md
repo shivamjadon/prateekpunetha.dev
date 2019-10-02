@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Material Ocean
-description: I have mastered the moves
-image: /assets/images/newocean.png
+description: A material design theme with oceanic colors
+image: /assets/images/logo.png
 ---
 
 Nowdays I am using Material Ocean theme like literally everywhere for every apps and I have became a huge fan of material ocean theme
