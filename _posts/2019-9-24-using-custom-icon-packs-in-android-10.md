@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Using Custom Icon Packs in  Android 10
-description: How to Use Custom Icon Packs In Android 10 without breaking the New Android 10 Gestures0
+description: How to Use Custom Icon Packs In Android 10 without breaking the New Android 10 Gestures
 image: /assets/images/android.png
 ---
 

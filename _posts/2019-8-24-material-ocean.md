@@ -51,6 +51,6 @@ These are the apps which I mostly use... If your eyes are at netflix, xD  I dont
 
 ###### How Do I Get This Theme ?
 
-Just install swift installer from <a target="_blank" href= "https://play.google.com/store/apps/details?id=com.brit.swiftinstaller">Play Store</a>  and set the background to 0f111a and fir accent whichever color you want, by the way I am using cyan nowdays i.e 80cbc4 <br>
+Just install swift installer from <a target="_blank" href= "https://play.google.com/store/apps/details?id=com.brit.swiftinstaller">Play Store</a>  and set the background to 0f111a and for accent whichever color you want, by the way I am using cyan nowdays i.e 80cbc4 <br>
 After that just confirm your changes and install the overlays && Enjoy xD 
 
