@@ -54,6 +54,12 @@
                             {% endif %}
                             <br/>
                             <br/>
+                            <div class=>
+                              <header class="major">
+                                <h3>Other Blog Posts</h3>
+                              </header>
+                              {% include tiles.html %}
+                            </div>
                         </div>
                     {% endif %}
                 </div>
@@ -65,3 +71,9 @@
     {% include footer.html %}
   </body>
 </html>
+<script>
+  $('article').addClass('extra-tiles');
+  $('.extra-tiles h3').replaceWith(function () {
+    return "<h4>" + $(this).html() + "</h4>";
+});
+</script>

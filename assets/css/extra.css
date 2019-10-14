@@ -94,7 +94,13 @@
   text-decoration: none !important;
   padding-bottom: 10px !important;
 }
-@media only screen and (max-width: 480px) {
+
+.extra-tiles{
+  width: 25% !important;
+  height: 15em !important;
+  min-height: auto !important;
+}
+@media only screen and (max-width: 768px) {
   .read-time {
     margin-top: -60px;
   }
