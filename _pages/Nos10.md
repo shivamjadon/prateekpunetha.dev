@@ -23,8 +23,29 @@ show_tile: false
     </ul>
     <h1>Latest Releases</h1>
     <div class="row 200%">
-      <div class="6u 12u$(medium)">
-      <h2>23 October 2019</h2>
+       <div class="6u 12u$(medium)">
+            <h2>6 November 2019</h2>
+            <li> Merged November Security Patches </li>
+            <li> Some NOS upstream changes </li>
+            <li> Other Fixes and Improvements </li><br>
+        </div>
+        <div class="6u$ 12u$(medium)">
+            <br><br><br>
+            <p><strong>File Name:</strong> Nitrogen-OS-10-vince-20191106.zip<br>
+            <strong>File Size:</strong> 614.4 MB<br>
+            <strong>MD5:</strong> d4b2482b1c6fd9d6ae0cf773635e284a</p>
+            <h3>Downloads:</h3>
+            <ul class="actions">
+                <li><a target="_blank" href="https://sourceforge.net/projects/nitrogen-project/files/vince/Nitrogen-OS-10-vince-20191106.zip/download" class="button special">Sourceforge</a></li>
+                <li><a target="_blank"  href="https://t.me/vinceroms/1700" class="button special">Telegram</a></li>
+            </ul>
+            
+        </div>
+    </div>
+    <div class="row 200%">
+        <div class="6u 12u$(medium)">
+        <br><br><br> 
+          <h2>23 October 2019</h2>
           <li> Show bluetooth battery level when available </li>
           <li> Do not disconnect profile till bluetooth is off </li>
           <li> Fix Bluetooth carkit position issue when music app is killed </li>
