@@ -24,7 +24,35 @@ show_tile: false
     <h1>Latest Releases</h1>
     <div class="row 200%">
        <div class="6u 12u$(medium)">
-            <h2>6 November 2019</h2>
+            <h2>26 November 2019</h2>
+            <li>Upstreamed kernel to 4.9.199</li>
+            <li>Fixed Hiding of Statusbar Clock</li>
+            <li>Fixed Double Tap to Wake on Ambient Display</li>  
+            <li>Added Call Recorder</li> 
+            <li>Added ScreenRecorder</li> 
+            <li>Added Dark Mode in Dialer</li>
+            <li>Added Dark Mode in Message's</li>
+            <li>Allow to suppress notifications sound/vibration if screen is On</li> 
+            <li>Added Option for Answering Call by pressing Volume keys</li> 
+            <li>Other Fixes and Improvements</li><br>
+        </div>
+        <div class="6u$ 12u$(medium)">
+            <br><br><br>
+            <p><strong>File Name:</strong> Nitrogen-OS-10-vince-20191125.zip<br>
+            <strong>File Size:</strong> 614.1 MB<br>
+            <strong>MD5:</strong> 9975313734c8dfc94b163ef7bc7bb6b3</p>
+            <h3>Downloads:</h3>
+            <ul class="actions">
+                <li><a target="_blank" href="https://sourceforge.net/projects/nitrogen-project/files/vince/Nitrogen-OS-10-vince-20191125.zip/download" class="button special">Sourceforge</a></li>
+                <li><a target="_blank"  href="https://t.me/vinceroms/1733" class="button special">Telegram</a></li>
+            </ul>
+            
+        </div>
+    </div>
+    <div class="row 200%">
+        <div class="6u 12u$(medium)">
+        <br><br><br> 
+          <h2>6 November 2019</h2>
             <li> Merged November Security Patches </li>
             <li> Some NOS upstream changes </li>
             <li> Other Fixes and Improvements </li><br>
