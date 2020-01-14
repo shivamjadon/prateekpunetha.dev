@@ -24,6 +24,28 @@ show_tile: false
     <h1>Latest Releases</h1>
     <div class="row 200%">
        <div class="6u 12u$(medium)">
+            <h2>14 January 2020</h2>
+            <li>• Update CarrierConfig overlay from LA.UM.8.6.r1-02900-89xx.0
+( So basically now Volte in Sims like Airtel && Vodafone works)  </li>
+            <li>Nos Upstream Changes</li> 
+            <li>Other Fixes and Improvements</li><br>
+        </div>
+        <div class="6u$ 12u$(medium)">
+            <br><br><br>
+            <p><strong>File Name:</strong> Nitrogen-OS-10-vince-20200114.zip<br>
+            <strong>File Size:</strong> 614.5 MB<br>
+            <strong>MD5:</strong> 4e9e01ef85ccaf30f2fbfa0d6621fe98</p>
+            <h3>Downloads:</h3>
+            <ul class="actions">
+                <li><a target="_blank" href="https://sourceforge.net/projects/nitrogen-project/files/vince/Nitrogen-OS-10-vince-20200114.zip/download" class="button special">Sourceforge</a></li>
+                <li><a target="_blank"  href="https://t.me/vinceroms/1776" class="button special">Telegram</a></li>
+            </ul>
+            
+        </div>
+    </div>
+    <div class="row 200%">
+        <div class="6u 12u$(medium)">
+        <br><br><br> 
             <h2>8 January 2020</h2>
             <li>Merged January Security Patches  </li>
             <li>Nos Upstream Changes</li> 
