@@ -25,8 +25,8 @@ show_tile: false
     <div class="row 200%">
        <div class="6u 12u$(medium)">
             <h2>14 January 2020</h2>
-            <li>• Update CarrierConfig overlay from LA.UM.8.6.r1-02900-89xx.0
-( So basically now Volte in Sims like Airtel && Vodafone works)  </li>
+            <li> Update CarrierConfig overlay from LA.UM.8.6.r1-02900-89xx.0 </li>
+            <li>So basically now Volte in Airtel & Vodafone SIM works</li>
             <li>Nos Upstream Changes</li> 
             <li>Other Fixes and Improvements</li><br>
         </div>
