@@ -105,3 +105,5 @@ show_tile: false
     </div>
 
 
+<a href="{{ site.url }}/nos-10" class="button fit special">Checkout Nitrogen OS 10</a>
+<br> <br><br>
