@@ -24,6 +24,30 @@ show_tile: false
     <h1>Latest Releases</h1>
     <div class="row 200%">
        <div class="6u 12u$(medium)">
+            <h2>31 January 2020</h2>
+            <li>Added OTA  support</li>
+            <li>Update Framework  Config overlay</li>
+            <li>Update Graphics & Media Blobs</li>  
+            <li>Build with latest Darky Ages Kernel</li> 
+            <li>Increase ZRAM Size to 1GB </li> 
+            <li>Other Fixes and Improvements</li><br>
+        </div>
+        <div class="6u$ 12u$(medium)">
+            <br><br><br>
+            <p><strong>File Name:</strong> Nitrogen-OS-10-vince-20200131.zip<br>
+            <strong>File Size:</strong> 613.4 MB<br>
+            <strong>MD5:</strong> 8de8e58cd471b8d28ea6d07858ab0332</p>
+            <h3>Downloads:</h3>
+            <ul class="actions">
+                <li><a target="_blank" href="https://sourceforge.net/projects/nitrogen-project/files/vince/Nitrogen-OS-10-vince-20200131.zip/download" class="button special">Sourceforge</a></li>
+                <li><a target="_blank"  href="https://t.me/vinceroms/1796" class="button special">Telegram</a></li>
+            </ul>
+            
+        </div>
+    </div>
+    <div class="row 200%">
+        <div class="6u 12u$(medium)">
+        <br><br><br> 
             <h2>14 January 2020</h2>
             <li> Update CarrierConfig overlay from LA.UM.8.6.r1-02900-89xx.0 </li>
             <li>So basically now Volte in Airtel & Vodafone SIM works</li>
