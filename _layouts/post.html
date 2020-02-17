@@ -42,18 +42,6 @@
                     {% endif %}
                     <p>{{ content }}</p>
                     {% if page.project != true %}
-                        <div class="actions">
-                            {% if page.next.url and page.next.project != true %}
-                                <a class="button" href="{{ page.next.url }}">
-                                    &laquo; Previous Post
-                            {% endif %}
-                            {% if page.previous.url and page.previous.project != true %}
-                                <a style="float: right;" class="button" href="{{ page.previous.url }}">
-                                    Next Post &raquo;
-                                </a>
-                            {% endif %}
-                            <br/>
-                            <br/>
                             <div class=>
                               <header class="major">
                                 <h3>Other Blog Posts</h3>
