@@ -3,6 +3,7 @@ layout: post
 title: Using Custom Icon Packs in  Android 10
 description: How to Use Custom Icon Packs In Android 10 without breaking the New Android 10 Gestures
 image: /assets/images/android.png
+tags: quickstep pixel-launcher icon-pack alexis root android-10 aosp
 ---
 
 So, Nowdays I am using Android 10 on my device and I am enjoying it, but whenever I see those stock icons it kinda looks ugly but sadly as of now there is no custom launcher which supports Android 10 and we can use custom icon packs. So I figured out one mod called Pixel Launcher Mods ( the name is pixel launcher mods but it works in quickstep and other launchers too ) and actually this mod helped me to change the icons and make my experience better.
