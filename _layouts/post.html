@@ -21,11 +21,14 @@
                                 <h2>{{ page.title }}</h2>
                             {{ page.date | date: '%B %d, %Y' }}
                             </header>
+                            {% include post-tags.html %}
+                          </div>
                             <div class="social-icons">
                             {% include social-share.html %}
                             </div>
                         </div>
                         <div class="6u 12u$(medium)">
+                              {% include post-tags.html %}
                             {% if page.github %}
                                 <ul class="actions github">
                                     <li>
