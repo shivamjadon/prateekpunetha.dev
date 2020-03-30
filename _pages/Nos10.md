@@ -24,6 +24,79 @@ show_tile: false
     <h1>Latest Releases</h1>
     <div class="row 200%">
        <div class="6u 12u$(medium)">
+            <h2>27 March 2020</h2>
+            <li>Add Screen Off Power Button Torch</li>  
+            <li>Build with latest Genom Kernel</li> 
+            <li>Other Nos Upstream Changes </li> 
+            <li>Other Fixes and Improvements</li><br>
+        </div>
+        <div class="6u$ 12u$(medium)">
+            <br><br><br>
+            <p><strong>File Name:</strong> Nitrogen-OS-10-vince-20200327.zip<br>
+            <strong>File Size:</strong> 611.5 MB<br>
+            <strong>MD5:</strong> 059dc85c93d49847f41f56db0e4072a0</p>
+            <h3>Downloads:</h3>
+            <ul class="actions">
+                <li><a target="_blank" href="https://sourceforge.net/projects/nitrogen-project/files/vince/Nitrogen-OS-10-vince-20200327.zip/download" class="button special">Sourceforge</a></li>
+                <li><a target="_blank"  href="https://t.me/vinceroms/1850" class="button special">Telegram</a></li>
+            </ul>
+            
+        </div>
+    </div>
+    <div class="row 200%">
+        <div class="6u 12u$(medium)">
+        <br><br><br> 
+            <h2>8 March 2020</h2>
+            <li>Merged March Security Patches</li>
+            <li>Add option to disable auto brightness icon in brightness slider</li>
+            <li>Launcher: Add simple iconpack support</li>
+            <li>Add Simplified Chinese translation</li>
+            <li>Updates to various icons</li>
+            <li>Add a new screenrecord icon for statusbar</li>
+            <li>Fix dull AOSP accents with dark theme</li>
+            <li>Screenrecord: use H264 codec for low quality</li>
+            <li>Correctly display notification title for screenrecord</li>
+            <li>Implement better partial screenshot</li>
+            <li>Other Fixes and Improvements</li><br>
+        </div>
+        <div class="6u$ 12u$(medium)">
+            <br><br><br>
+            <p><strong>File Name:</strong> Nitrogen-OS-10-vince-20200308.zip<br>
+            <strong>File Size:</strong> 611.2 MB<br>
+            <strong>MD5:</strong> a6f856b3de93b1d4cfcaff46022c8619</p>
+            <h3>Downloads:</h3>
+            <ul class="actions">
+                <li><a target="_blank" href="https://sourceforge.net/projects/nitrogen-project/files/vince/Nitrogen-OS-10-vince-202002308.zip/download" class="button special">Sourceforge</a></li>
+                <li><a target="_blank"  href="https://t.me/vinceroms/1826" class="button special">Telegram</a></li>
+            </ul>
+            
+        </div>
+    </div>
+    <div class="row 200%">
+        <div class="6u 12u$(medium)">
+        <br><br><br> 
+            <h2>15 February 2020</h2>
+            <li>OTA: Fix Prop</li>  
+            <li>Build with latest Darky Ages Kernel</li> 
+            <li>Nos Upstream Changes </li> 
+            <li>Other Fixes and Improvements</li><br>
+        </div>
+        <div class="6u$ 12u$(medium)">
+            <br><br><br>
+            <p><strong>File Name:</strong> Nitrogen-OS-10-vince-20200215.zip<br>
+            <strong>File Size:</strong> 613.3 MB<br>
+            <strong>MD5:</strong> d17d24662001666fc1856f687e44fde0</p>
+            <h3>Downloads:</h3>
+            <ul class="actions">
+                <li><a target="_blank" href="https://sourceforge.net/projects/nitrogen-project/files/vince/Nitrogen-OS-10-vince-20200215.zip/download" class="button special">Sourceforge</a></li>
+                <li><a target="_blank"  href="https://t.me/vinceroms/1815" class="button special">Telegram</a></li>
+            </ul>
+            
+        </div>
+    </div>
+    <div class="row 200%">
+        <div class="6u 12u$(medium)">
+        <br><br><br> 
             <h2>4 February 2020</h2>
             <li>Merged February Security Patch</li>
             <li>Add "Built-In (Back) Mic" to "primary input" sink</li>
