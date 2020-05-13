@@ -24,6 +24,79 @@ show_tile: false
     <h1>Latest Releases</h1>
     <div class="row 200%">
        <div class="6u 12u$(medium)">
+
+            <h2>9 May 2020</h2>
+            <li>Merged May Security Patch</li>
+            <li>Build with latest Genom Kernel</li> 
+            <li>Nos Upstream Changes </li> 
+            <li>Other Fixes and Improvements</li><br>
+        </div>
+        <div class="6u$ 12u$(medium)">
+            <br><br><br>
+            <p><strong>File Name:</strong> Nitrogen-OS-10-vince-20200509.zip<br>
+            <strong>File Size:</strong> 636.2 MB<br>
+            <strong>MD5:</strong> 4d3324513e66e807e53702be45fa50fc6b740c1d</p>
+            <h3>Downloads:</h3>
+            <ul class="actions">
+                <li><a target="_blank" href="https://sourceforge.net/projects/nitrogen-project/files/vince/Nitrogen-OS-10-vince-20200509.zip/download" class="button special">Sourceforge</a></li>
+                <li><a target="_blank"  href="https://t.me/vinceroms/1913" class="button special">Telegram</a></li>
+            </ul>
+            
+        </div>
+    </div>
+    <div class="row 200%">
+        <div class="6u 12u$(medium)">
+        <br><br><br> 
+            <h2>22 April 2020</h2>
+            <li>Added Circle battery style </li>
+            <li>Added dotted circle battery style </li>
+            <li>Set Rounded corner radius to 22 
+( as the corners were too much round, specially noticable on those devices with white colour so decreased  little bit. )</li>  
+            <li>Build with latest Genom Kernel</li> 
+            <li>Other Fixes and Improvements</li><br>
+        </div>
+        <div class="6u$ 12u$(medium)">
+            <br><br><br>
+            <p><strong>File Name:</strong> Nitrogen-OS-10-vince-20200422.zip<br>
+            <strong>File Size:</strong> 636.4 MB<br>
+            <strong>MD5:</strong> 9e57e82f398df8561438b206afee1f74c1d2899e</p>
+            <h3>Downloads:</h3>
+            <ul class="actions">
+                <li><a target="_blank" href="https://sourceforge.net/projects/nitrogen-project/files/vince/Nitrogen-OS-10-vince-20200422.zip/download" class="button special">Sourceforge</a></li>
+                <li><a target="_blank"  href="https://t.me/vinceroms/1884" class="button special">Telegram</a></li>
+            </ul>
+            
+        </div>
+    </div>
+    <div class="row 200%">
+        <div class="6u 12u$(medium)">
+        <br><br><br> 
+            <h2>10 April  2020</h2>
+            <li>Merged April Security Patch</li>
+            <li>Bypass Safetynet  
+( • You can download apps like netflix etc from playstore directly, without flashing any module from playstore | • Playstore shows device is certified now. )</li>
+            <li>Port face unlock feature </li>  
+            <li>Build with latest Genom  Kernel</li> 
+            <li>Increased Rounded Corner Content Padding & Radius </li> 
+            <li>Other Fixes and Improvements</li><br>
+        </div>
+        <div class="6u$ 12u$(medium)">
+            <br><br><br>
+            <p><strong>File Name:</strong> Nitrogen-OS-10-vince-20200410.zip.zip<br>
+            <strong>File Size:</strong> 638.9 MB<br>
+            <strong>MD5:</strong> 
+bf9a699ee087bd2abe728d927e2040c4</p>
+            <h3>Downloads:</h3>
+            <ul class="actions">
+                <li><a target="_blank" href="https://sourceforge.net/projects/nitrogen-project/files/vince/Nitrogen-OS-10-vince-20200410.zip/download" class="button special">Sourceforge</a></li>
+                <li><a target="_blank"  href="https://t.me/vinceroms/1867" class="button special">Telegram</a></li>
+            </ul>
+            
+        </div>
+    </div>
+    <div class="row 200%">
+        <div class="6u 12u$(medium)">
+        <br><br><br> 
             <h2>27 March 2020</h2>
             <li>Add Screen Off Power Button Torch</li>  
             <li>Build with latest Genom Kernel</li> 
