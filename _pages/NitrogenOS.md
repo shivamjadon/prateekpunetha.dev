@@ -104,6 +104,7 @@ show_tile: false
         </div>
     </div>
 
-
+Nitrogen OS Based On Android 10 Is Out:
+<br><br><br>
 <a href="{{ site.url }}/nos-10" class="button fit special">Checkout Nitrogen OS 10</a>
 <br> <br><br>
