@@ -37,7 +37,7 @@ Oh yeah Material Ocean looks Classic
     </div>
 </div>
  
-Materialized Spotify xD .. btw I have been listening to neffex from months and really they are good nibbas .. My favoriate is Cold by the way as you can see still I am listening to that song 😃
+Materialized Spotify  .. By the way I have been listening to neffex from months and really they are good  .. My favoriate is Cold by the way as you can see still I am listening to that song 😃
 
 <div class="row 200%">
     <div class="6u 12u$(medium)">
@@ -48,10 +48,8 @@ Materialized Spotify xD .. btw I have been listening to neffex from months and r
     </div>
 </div>
 
-These are the apps which I mostly use... If your eyes are at netflix, xD  I dont use it more, just started watching some animes xD .
-
 ###### How Do I Get This Theme ?
 
 Just install swift installer from <a target="_blank" href= "https://play.google.com/store/apps/details?id=com.brit.swiftinstaller">Play Store</a>  and set the background to 0f111a and for accent whichever color you want, by the way I am using cyan nowdays i.e 80cbc4 <br>
-After that just confirm your changes and install the overlays && Enjoy xD 
+After that just confirm your changes and install the overlays && Enjoy!
 
