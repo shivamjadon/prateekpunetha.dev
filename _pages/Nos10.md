@@ -24,7 +24,27 @@ show_tile: false
     <h1>Latest Releases</h1>
     <div class="row 200%">
        <div class="6u 12u$(medium)">
-
+            <h2>28  May 2020</h2>
+            <li>Switch to device/qcom/sepolicy-legacy-um policy</li>      
+            <li>Build with latest Genom Kernel</li> 
+            <li>Other Fixes and Improvements</li><br>
+        </div>
+        <div class="6u$ 12u$(medium)">
+            <br><br><br>
+            <p><strong>File Name:</strong> Nitrogen-OS-10-vince-20200528.zip<br>
+            <strong>File Size:</strong> 638.4 MB<br>
+            <strong>MD5:</strong> 5bec99341e11fe8276115769faa96c88</p>
+            <h3>Downloads:</h3>
+            <ul class="actions">
+                <li><a target="_blank" href="https://sourceforge.net/projects/nitrogen-project/files/vince/Nitrogen-OS-10-vince-20200528.zip/download" class="button special">Sourceforge</a></li>
+                <li><a target="_blank"  href="https://t.me/vinceroms/1961" class="button special">Telegram</a></li>
+            </ul>
+            
+        </div>
+    </div>
+    <div class="row 200%">
+        <div class="6u 12u$(medium)">
+        <br><br><br> 
             <h2>9 May 2020</h2>
             <li>Merged May Security Patch</li>
             <li>Build with latest Genom Kernel</li> 
