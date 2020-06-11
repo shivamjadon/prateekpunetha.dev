@@ -40,9 +40,9 @@ nav-menu: true
       </section>
       <section>
         <div class="contact-method">
-          <span class="icon alt fa-phone"></span>
-          <h3>Phone</h3>
-          <span>{{ site.phone }}</span>
+          <span class="icon alt fa-telegram"></span>
+          <h3>Telegram</h3>
+          <a href ="{{site.telegram_url}}">@prateekpunetha</a>
         </div>
       </section>
       <section>
