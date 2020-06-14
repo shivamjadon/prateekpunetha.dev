@@ -15,23 +15,16 @@ This is my personal fork which adds many important features and makes the theme 
 * prope URl's for posts and projects
 * remove the annoying date on post URL's
 * better project structure - group all pages under the pages folder
-* seperation between projects and posts 
-* skills widget - add your skills under the skills key value pair in `config.yml`
-* tiles for both posts and projects - you can toggle them in `_config.yml`
+* seperation between posts and pages
+* tiles for posts and pages  - you can toggle them in `_config.yml`
 * go to top button
-* separate page for each post and project 
-* next and previous post navigation buttons 
-* read time for posts and projects
+* separate page for each post and pages
 * minimal syntax highlighting via [prism](https://prismjs.com/index.html)
 * site wide search via [lunr](https://lunrjs.com)
-* [disque](https://disqus.com/) comments integration for posts - add your disque forum name in `config.yml`
-* fork repository button on projects
 * better font awesome integration via fontawesome kit
 * fix font awesome issues on mobile devices
-* social media shareing icons for both projects and posts 
-* RSS feed support
+* social media shareing icons for posts and pages
 * separate contact page - add your details in `_config.yml`
-* **[Formspree.io](https://formspree.io/) contact form integration** - just add your email to the `_config.yml` and it works!
 * Add your **social profiles** easily in `_config.yml`. Only social profiles butons you enter in `config.yml` show up on the site footer, you can easily add your own social media's if they're not included by default
 
 # Project Structure
