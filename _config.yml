@@ -6,11 +6,6 @@ description: An Android and Linux Enthusiast
 baseurl: "" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author: Prateek Punetha
-street_address: 
-city: Pithoragarh
-state: Uttarakhand
-zip_code: 262501
-country: India
 
 # homepage tiles
 tiles-source: posts # accepts "posts" or "pages"
