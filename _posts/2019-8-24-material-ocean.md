@@ -15,10 +15,10 @@ So lets start with the materialized homescreen
 
 <div class="row 200%">
     <div class="6u 12u$(medium)">
-    <img src="/assets/images/newhome.png">
+    <img src="/assets/images/newhome.png" alt="Homescreen">
     </div>
     <div class="6u 12u$(medium)">
-    <img src="/assets/images/newqs.png">
+    <img src="/assets/images/newqs.png" alt="Qs tile">
     </div>
 </div>
  
@@ -30,10 +30,10 @@ Oh yeah Material Ocean looks Classic
 
 <div class="row 200%">
     <div class="6u 12u$(medium)">
-    <img src="/assets/images/spotify.png">
+    <img src="/assets/images/spotify.png" alt="Spotify">
     </div>
     <div class="6u 12u$(medium)">
-    <img src="/assets/images/cold.png">
+    <img src="/assets/images/cold.png" alt="Neffex Cold">
     </div>
 </div>
  
@@ -41,10 +41,10 @@ Materialized Spotify  .. By the way I have been listening to neffex from months 
 
 <div class="row 200%">
     <div class="6u 12u$(medium)">
-    <img src="/assets/images/tg.png">
+    <img src="/assets/images/tg.png" alt="Telegram">
     </div>
     <div class="6u 12u$(medium)">
-    <img src="/assets/images/netflix.png">
+    <img src="/assets/images/netflix.png" alt="Netflix">
     </div>
 </div>
 

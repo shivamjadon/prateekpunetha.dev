@@ -10,10 +10,10 @@ So, Nowdays I am using Android 10 on my device and I am enjoying it, but wheneve
 
 <div class="row 200%">
     <div class="6u 12u$(medium)">
-    <img src="/assets/images/stockicons.png">
+    <img src="/assets/images/stockicons.png alt="Stock Icons"">
     </div>
     <div class="6u 12u$(medium)">
-    <img src="/assets/images/girl.png">
+    <img src="/assets/images/girl.png" alt="Custom Icons">
     </div>
 </div>
 
@@ -25,10 +25,10 @@ So Using Pixel launcher mods is pretty simple, First you need to download it  [F
 
 <div class="row 200%">
     <div class="6u 12u$(medium)">
-    <img src="/assets/images/pmod.png">
+    <img src="/assets/images/pmod.png" alt="Pixel Launcher Mods">
     </div>
     <div class="6u 12u$(medium)">
-    <img src="/assets/images/apply.png">
+    <img src="/assets/images/apply.png" alt="Apply Menu">
     </div>
 </div>
 
