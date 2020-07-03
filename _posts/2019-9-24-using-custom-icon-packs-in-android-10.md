@@ -10,7 +10,7 @@ So, Nowdays I am using Android 10 on my device and I am enjoying it, but wheneve
 
 <div class="row 200%">
     <div class="6u 12u$(medium)">
-    <img src="/assets/images/stockicons.png alt="Stock Icons"">
+    <img src="/assets/images/stockicons.png" alt="Stock Icons">
     </div>
     <div class="6u 12u$(medium)">
     <img src="/assets/images/girl.png" alt="Custom Icons">
