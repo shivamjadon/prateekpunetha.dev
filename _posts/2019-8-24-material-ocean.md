@@ -18,7 +18,7 @@ So lets start with the materialized homescreen
     <img src="/assets/images/newhome.png" alt="Homescreen">
     </div>
     <div class="6u 12u$(medium)">
-    <img src="/assets/images/newqs.png" alt="Qs tile">
+    <img src="/assets/images/newqs.png" alt="Qs Tile">
     </div>
 </div>
  
