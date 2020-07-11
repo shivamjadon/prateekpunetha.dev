@@ -10,7 +10,7 @@ nav-menu: true
 <section id="contact">
   <div class="inner">
     <section>
-    The best way of contacting me is by sending me a telegram message or via sending me an direct email.<br/><br/>
+    I don't use much of social media, but I do use telegram so you can either contact me via it, or you can send me an direct mail.<br/><br/>
     </section>
     <section class="split">
       <section>
