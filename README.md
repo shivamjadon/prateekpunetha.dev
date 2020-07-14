@@ -25,7 +25,6 @@ This is my personal fork which adds many important features and makes the theme 
 * fix font awesome issues on mobile devices
 * social media shareing icons for posts and pages
 * separate contact page - add your details in `_config.yml`
-* Add your **social profiles** easily in `_config.yml`. Only social profiles butons you enter in `config.yml` show up on the site footer, you can easily add your own social media's if they're not included by default
 
 # Project Structure
 ```
