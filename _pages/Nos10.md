@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Nitrogen OS 10
-nav-menu: false
+nav-menu: true
 show_tile: false
 ---
 
