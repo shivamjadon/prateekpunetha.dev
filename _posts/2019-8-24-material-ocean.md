@@ -3,7 +3,7 @@ layout: post
 title: Material Ocean
 description: A material design theme with oceanic colors
 image: /assets/images/logo.png
-tags: theme material-ocean android swift
+tags: theme material-ocean android swift color-scheme
 ---
 
 Nowdays I am using Material Ocean theme like literally everywhere for every apps and I have became a huge fan of material ocean theme
