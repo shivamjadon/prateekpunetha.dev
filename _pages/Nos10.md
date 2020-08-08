@@ -24,6 +24,28 @@ show_tile: false
     <h1>Latest Releases</h1>
     <div class="row 200%">
        <div class="6u 12u$(medium)">
+            <h2>6 August 2020</h2>
+            <li>Merged August  Security Patches</li>
+            <li>Add feature for IMS/VoLTE icon on status bar</li>
+            <li>Build with latest Genom Kernel</li>
+            <li>Other Fixes and Improvements</li><br>
+        </div>
+        <div class="6u$ 12u$(medium)">
+            <br><br><br>
+            <p><strong>File Name:</strong> Nitrogen-OS-10-vince-20200806.zip<br>
+            <strong>File Size:</strong> 639.0 MB<br>
+            <strong>MD5:</strong> 8278f95d9b1ec499f58ec9fccc708948</p>
+            <h3>Downloads:</h3>
+            <ul class="actions">
+                <li><a target="_blank" href="https://sourceforge.net/projects/nitrogen-project/files/vince/Nitrogen-OS-10-vince-20200806.zip/download" class="button special">Sourceforge</a></li>
+                <li><a target="_blank"  href="https://t.me/vinceroms/2135" class="button special">Telegram</a></li>
+            </ul>
+
+        </div>
+    </div>
+    <div class="row 200%">
+        <div class="6u 12u$(medium)">
+        <br><br><br>
             <h2>7 July 2020</h2>
             <li>Merged July Security Patches</li>      
             <li>Build with latest Genom Kernel</li> 
