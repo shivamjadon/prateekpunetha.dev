@@ -1,4 +1,4 @@
-# FortyPlus - Jekyll Theme
+# FortyPlus - Jekyll Theme [![Netlify Status](https://api.netlify.com/api/v1/badges/22c6850c-ca04-4d8a-8555-83c3638f0145/deploy-status)](https://app.netlify.com/sites/prateekpunetha-site/deploys)
 
 A modified version of the Jekyll theme by [HTML5 UP](https://html5up.net/).  
 This is my personal fork which adds many important features and makes the theme highly modular and user customizable.
