@@ -460,7 +460,7 @@ bf9a699ee087bd2abe728d927e2040c4</p>
     <div class="row 200%">
         <div class="6u 12u$(medium)">
         <br><br><br>
-          <h2>10 October2019</h2>
+          <h2>10 October 2019</h2>
             <li> Merged October Security Patches </li>
             <li> Fixed Double tap to wake </li>
             <li> Fixed QS autobrightness icon tint </li>
